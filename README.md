@@ -1,4 +1,4 @@
-# LinearRegression_Demand-prediction
+# LinearRegression_Demand-forecasting
 
 Problem Statement:
 
